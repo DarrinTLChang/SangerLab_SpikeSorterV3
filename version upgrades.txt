@@ -1,0 +1,33 @@
+main thing is able to run for sleep data which is data slicing
+Improve the spike sorter code
+
+Clean parameters add parameters for my methods
+Clean the code so it’s more readable
+
+
+slicing or fit and execute?
+
+
+Add option for looking at same neurons both in the entire recording or a section of the recording
+Add option for slicing data 
+Add monte carlo analysis’
+Add channel quality measure and cluster quality measure
+Add plot hist in the end of spike sorter
+able to rubn for sleep (8 hour recordings)
+test spike normalization before feature extraction.
+template matching or same GM use?
+max time on which fit stuff, or select specific time or load parameters for thresholding
+is filtering or findpeaks possible for 1 bilion point array? or we need to slice the data up
+
+
+
+Add the option for fixed number or automatic detection method(done)
+Fix error in visualization (plot hist) code on dropbox(done)
+Add a small set of electrodes as quick test(done)
+Add filesep to spike sorter(done)
+Call set_parameters only once.(done)
+Fix the _filtered problem(done)
+Fix the problem of having zero features in the cluster part (done)
+
+
+how to manage big data: (should be able to load the channel at least once)
